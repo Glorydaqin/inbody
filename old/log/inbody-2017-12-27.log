@@ -1,0 +1,123 @@
+2017-12-27 18:52:12	check	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 18:52:12	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}
+2017-12-27 18:52:12	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	request
+2017-12-27 18:52:14	post	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	res={"errorcode":0,"errormsg":"\u6210\u529f"}
+2017-12-27 18:52:14	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}	res="{\"errorcode\":0,\"errormsg\":\"\\u6210\\u529f\"}"
+2017-12-27 18:52:14	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	request
+2017-12-27 18:52:14	post	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	res={"errorcode":0,"errormsg":""}
+2017-12-27 18:52:54	check	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 18:52:54	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}
+2017-12-27 18:52:54	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	request
+2017-12-27 18:52:55	post	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	res={"errorcode":0,"errormsg":"\u6210\u529f"}
+2017-12-27 18:52:55	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}	res="{\"errorcode\":0,\"errormsg\":\"\\u6210\\u529f\"}"
+2017-12-27 18:52:55	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	request
+2017-12-27 18:52:55	post	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	res={"errorcode":0,"errormsg":""}
+2017-12-27 18:53:38	check	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 18:53:38	exepath=C:\Program Files\InBody\Lookin'Body120\LB1201.exe	res=False
+2017-12-27 18:54:46	check	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 18:57:56	check	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 18:57:56	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}
+2017-12-27 18:57:56	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	request
+2017-12-27 18:57:57	post	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	res={"errorcode":0,"errormsg":"\u6210\u529f"}
+2017-12-27 18:57:57	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}	res="{\"errorcode\":0,\"errormsg\":\"\\u6210\\u529f\"}"
+2017-12-27 18:57:57	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	request
+2017-12-27 18:57:57	post	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	res={"errorcode":0,"errormsg":""}
+2017-12-27 18:58:19	check	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 18:58:36	check	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 18:58:37	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}
+2017-12-27 18:58:37	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	request
+2017-12-27 18:58:37	post	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	res={"errorcode":0,"errormsg":"\u6210\u529f"}
+2017-12-27 18:58:37	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}	res="{\"errorcode\":0,\"errormsg\":\"\\u6210\\u529f\"}"
+2017-12-27 18:58:37	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	request
+2017-12-27 18:58:38	post	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	res={"errorcode":0,"errormsg":""}
+2017-12-27 18:59:18	check	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 18:59:18	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}
+2017-12-27 18:59:18	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	request
+2017-12-27 18:59:19	post	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	res={"errorcode":0,"errormsg":"\u6210\u529f"}
+2017-12-27 18:59:19	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}	res="{\"errorcode\":0,\"errormsg\":\"\\u6210\\u529f\"}"
+2017-12-27 18:59:19	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	request
+2017-12-27 18:59:19	post	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	res={"errorcode":0,"errormsg":""}
+2017-12-27 18:59:53	check	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 19:01:11	check	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 19:01:11	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}
+2017-12-27 19:01:11	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	request
+2017-12-27 19:01:12	post	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	res={"errorcode":0,"errormsg":"\u6210\u529f"}
+2017-12-27 19:01:12	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}	res="{\"errorcode\":0,\"errormsg\":\"\\u6210\\u529f\"}"
+2017-12-27 19:01:12	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	request
+2017-12-27 19:01:12	post	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	res={"errorcode":0,"errormsg":""}
+2017-12-27 19:02:25	check	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 19:02:25	exepath2=C:\Program Files\InBody\Lookin'Body120\LBPC.Base.Database.dll	res=False
+2017-12-27 19:03:27	check	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 19:03:27	exepath2=C:\Program Files\InBody\Lookin'Body120\LBPC.Base.Database.dll	res=False
+2017-12-27 19:03:57	check	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 19:03:57	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}
+2017-12-27 19:03:57	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	request
+2017-12-27 19:03:59	post	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	res={"errorcode":0,"errormsg":"\u6210\u529f"}
+2017-12-27 19:03:59	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}	res="{\"errorcode\":0,\"errormsg\":\"\\u6210\\u529f\"}"
+2017-12-27 19:03:59	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	request
+2017-12-27 19:03:59	post	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	res={"errorcode":0,"errormsg":""}
+2017-12-27 19:06:07	start service
+les /p C:\Users\QN\PycharmProjects\inbody\log /s /m *.* /d -1 /c "cmd /c del @path"
+2017-12-27 19:54:23	clear_log	forfiles /p C:\Users\QN\PycharmProjects\inbody\log /s /m *.* /d -1 /c "cmd /c del @path"
+2017-12-27 19:54:23	check	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 19:54:23	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}
+2017-12-27 19:54:23	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	request
+2017-12-27 19:54:24	post	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	res={"errorcode":0,"errormsg":"\u6210\u529f"}
+2017-12-27 19:54:24	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}	res="{\"errorcode\":0,\"errormsg\":\"\\u6210\\u529f\"}"
+2017-12-27 19:54:24	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	request
+2017-12-27 19:54:24	post	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	res={"errorcode":0,"errormsg":""}
+2017-12-27 19:54:24	start service
+2017-12-27 19:54:41	clear_log	forfiles /p C:\Users\QN\PycharmProjects\inbody\log /s /m *.* /d -1 /c "cmd /c del @path"
+2017-12-27 19:54:41	check	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 19:54:41	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}
+2017-12-27 19:54:41	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	request
+2017-12-27 19:54:42	post	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	res={"errorcode":0,"errormsg":"\u6210\u529f"}
+2017-12-27 19:54:42	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}	res="{\"errorcode\":0,\"errormsg\":\"\\u6210\\u529f\"}"
+2017-12-27 19:54:42	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	request
+2017-12-27 19:54:43	post	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	res={"errorcode":0,"errormsg":""}
+2017-12-27 19:54:43	start service
+2017-12-27 19:56:11	clear_log	forfiles /p C:\Users\QN\PycharmProjects\inbody\log /s /m *.* /d -1 /c "cmd /c del @path"
+2017-12-27 19:56:11	check	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 19:56:11	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}
+2017-12-27 19:56:11	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	request
+2017-12-27 19:56:12	post	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	res={"errorcode":0,"errormsg":"\u6210\u529f"}
+2017-12-27 19:56:12	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}	res="{\"errorcode\":0,\"errormsg\":\"\\u6210\\u529f\"}"
+2017-12-27 19:56:12	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	request
+2017-12-27 19:56:12	post	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	res={"errorcode":0,"errormsg":""}
+2017-12-27 19:56:12	start service
+2017-12-27 20:03:20	clear_log	forfiles /p C:\Users\QN\PycharmProjects\inbody\log /s /m *.* /d -1 /c "cmd /c del @path"
+2017-12-27 20:03:20	check	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 20:03:20	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}
+2017-12-27 20:03:20	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	request
+2017-12-27 20:03:20	clear_log	forfiles /p C:\Users\QN\PycharmProjects\inbody\log /s /m *.* /d -1 /c "cmd /c del @path"
+2017-12-27 20:03:21	post	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	res={"errorcode":0,"errormsg":"\u6210\u529f"}
+2017-12-27 20:03:21	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}	res="{\"errorcode\":0,\"errormsg\":\"\\u6210\\u529f\"}"
+2017-12-27 20:03:21	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	request
+2017-12-27 20:03:21	post	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	res={"errorcode":0,"errormsg":""}
+2017-12-27 20:03:21	start service
+2017-12-27 20:07:06	clear_log	forfiles /p C:\Users\QN\PycharmProjects\inbody\log /s /m *.* /d -1 /c "cmd /c del @path"
+2017-12-27 20:07:06	check	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 20:07:06	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}
+2017-12-27 20:07:06	clear_log	forfiles /p C:\Users\QN\PycharmProjects\inbody\log /s /m *.* /d -1 /c "cmd /c del @path"
+2017-12-27 20:07:06	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	request
+2017-12-27 20:07:06	post	url=https://new-kaifa.rocketbird.cn/Web/Inbody/check_license	res={"errorcode":0,"errormsg":"\u6210\u529f"}
+2017-12-27 20:07:06	check_license	data={"device_info": "{\"sys\": \"Windows |6.1.7601 |Windows-7-6.1.7601-SP1|QN-PC\", \"client_unique_id\": \"5CAC4CD0BEAF\"}", "bus_id": "_BBHB63", "license": "acc38e345c0d19b4c02c68d6585a4eab"}	res="{\"errorcode\":0,\"errormsg\":\"\\u6210\\u529f\"}"
+2017-12-27 20:07:06	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	request
+2017-12-27 20:07:07	post	url=https://new-kaifa.rocketbird.cn/Web/Upload/log	res={"errorcode":0,"errormsg":""}
+2017-12-27 20:07:07	start service
+2017-12-27 20:24:23	args=["C:/Users/QN/PycharmProjects/inbody/index.py", "start"]
+2017-12-27 20:24:23	start service
+2017-12-27 20:24:23	clear_log	forfiles /p C:\Users\QN\PycharmProjects\inbody\log /s /m *.* /d -1 /c "cmd /c del @path"
+2017-12-27 20:26:56	args1=start
+2017-12-27 20:26:56	start service
+2017-12-27 20:26:56	clear_log	forfiles /p C:\Users\QN\PycharmProjects\inbody\log /s /m *.* /d -1 /c "cmd /c del @path"
+2017-12-27 21:26:45	start service
+2017-12-27 21:27:07	start service
+2017-12-27 21:42:50	start service
+2017-12-27 21:42:50	open_inbody	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res=["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 21:42:50	exepath=C:\Program Files\InBody\Lookin'Body120\LB120.exe
+2017-12-27 21:42:50	open_inbody	ret=42
+2017-12-27 21:49:36	start service
+2017-12-27 21:49:36	open_inbody	 filepath=C:\Users\QN\PycharmProjects\inbody\license.ini	res=["C:\\Users\\QN\\PycharmProjects\\inbody\\license.ini"]
+2017-12-27 21:49:36	exepath=C:\Program Files\InBody\Lookin'Body120\LB120.exe
+2017-12-27 21:49:37	open_inbody	ret=42
